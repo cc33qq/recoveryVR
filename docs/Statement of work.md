@@ -42,7 +42,7 @@ Example Addition to UI
 If the UI on the tablet or web needed to operate multiple headsets we would need a token system that allowed for that. As previously mentioned it would likely just be grabbing a part of MAC address or other unique identifier we can find to differentiate between each separate headset that is connecting to the server.
 ## Deliverables schedule
 As we are using Agile development method, we will have a MVP to be delivered at Week 6 of semester 2, 2019. We consider 2 weeks as 1 scrum, one semester has 12 weeks. The first scrum is team formation, the second one is to decide which language we are going to use, the third one is to deliver a MVP, the forth one is to add front end UIs, the fifth one is to add log-in feature, and the last one is to let multiple VR devices connect to the sever at the same time. 
-
+![image](https://github.com/cc33qq/recoveryVR/blob/master/pic/time2.png)
 The MVP contains: 
 - A server built
 - The server can receive json package from VR equipment successfully
