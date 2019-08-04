@@ -49,6 +49,7 @@ Another risk would be our project timeline. Our project is a startup project and
 Our project would face risks in data disclosure and project plan. They will be minimized by the efforts of the whole team.
 ## Constraints
 The information transferred between VR equipment and our server is very critical, we have to make sure the information exchange is secure, safe, and reliable.
+![image](https://github.com/cc33qq/recoveryVR/blob/master/pic/time1.png)
 ## Other documentations
 [Feedback log](https://github.com/cc33qq/recoveryVR/blob/master/docs/Feedback_log.md)
 
