@@ -17,6 +17,7 @@ Office address: 1 Moore St, Level 5, Canberra Innovation Network
 ### VR App Control - Build server with a front end UI (for doctors)
 Example first stage front end UI - 
 ![image](https://github.com/cc33qq/recoveryVR/blob/master/pic/pic1.PNG)
+
 The front end needs to send messages to Unity that are used to queue up/change scenes.
 
 We will use this Unity plugin to handle the communication https://assetstore.unity.com/packages/tools/network/best-http-10872
@@ -31,9 +32,17 @@ There will need to be a login for the doctor and some kind of token/identifier p
 ### Metrics - Graphical display of recovery
 Example addition to UI - 
 ![image](https://github.com/cc33qq/recoveryVR/blob/master/pic/pic2.PNG)
+
 For the data points of Reach, Sit Stand, Rotation, Wrist and Twist that will be updated in the user profile once per session, we need the values to be plotted visually on a graph on the UI. This is for the supervising user to view and compare session data of the user to help gauge progress and recovery over time. 
 ### Tokens - Multiple connections
 Example Addition to UI
 ![image](https://github.com/cc33qq/recoveryVR/blob/master/pic/pic3.PNG)
+
 If the UI on the tablet or web needed to operate multiple headsets we would need a token system that allowed for that. As previously mentioned it would likely just be grabbing a part of MAC address or other unique identifier we can find to differentiate between each separate headset that is connecting to the server.
+## Deliverables schedule
+As we are using Agile development method, we will have a MVP to be delivered at Week 5 of semester 2, 2019.
+## Period
+The project will be finished within 2 semesters, and the end date would be officially 30th of July, 2020. After that date, the project would be terminated and hand over to the client.
+## Acceptance
+All the tasks have been done.
 
