@@ -19,7 +19,7 @@ RecoveryVR is designed to help stroke survivors but our initial market research 
 [Statement of Work](https://github.com/cc33qq/recoveryVR/blob/master/docs/Statement%20of%20work.md)
 
 ## Key stakeholders
-### client:
+### Client:
 Christian Doran and RecoveryVR want to get a tablet system that extended their current service content. They want to provide collected data to the doctors to help them design a treatment protocol. 
 ### Deverlopers:
 The development team expects to set up a web server with a front-end web UI for doctors and a database of patients. Record each commits to the project.
@@ -53,3 +53,5 @@ The information transferred between VR equipment and our server is very critical
 [Feedback log](https://github.com/cc33qq/recoveryVR/blob/master/docs/Feedback_log.md)
 
 [Decision log](https://github.com/cc33qq/recoveryVR/blob/master/docs/Decision_log.md)
+
+[ANU Student Project Industry Client Agreement RecoveryVR](https://github.com/cc33qq/recoveryVR/blob/master/docs/ANU_Student_Project_Industry_Client_Agreement_RecoveryVR.docx)
