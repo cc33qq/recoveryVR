@@ -41,7 +41,12 @@ Example Addition to UI
 
 If the UI on the tablet or web needed to operate multiple headsets we would need a token system that allowed for that. As previously mentioned it would likely just be grabbing a part of MAC address or other unique identifier we can find to differentiate between each separate headset that is connecting to the server.
 ## Deliverables schedule
-As we are using Agile development method, we will have a MVP to be delivered at Week 5 of semester 2, 2019.
+As we are using Agile development method, we will have a MVP to be delivered at Week 7 of semester 2, 2019.
+
+The MVP contains: 
+- A server built
+- The server can receive json package from VR equipment successfully
+- The data received can be shown on the server
 ## Period
 The project will be finished within 2 semesters, and the end date would be officially 30th of July, 2020. After that date, the project would be terminated and hand over to the client.
 ## Acceptance
