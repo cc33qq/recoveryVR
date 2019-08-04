@@ -15,7 +15,8 @@ RecoveryVR is designed to help stroke survivors but our initial market research 
 - Profile Data - Build Database of Users
 - Metrics - Graphical display of recovery
 - Tokens - Multiple connections
-
+## Statement of Work
+[Statement of Work](https://github.com/cc33qq/recoveryVR/blob/master/docs/Statement%20of%20work.md)
 ## Risk Evaluation
 Recovery aims to help patients to recover from complex regional pain. We plan to design VR "games" for patients and build a web server for doctors to monitor how patients recover. During the treatment, it may rise information disclosure issues. Besides our projects may rise risks on our schedule.
 
