@@ -1,5 +1,7 @@
 # Feedback log
-## The project may raise ethical issue as it is related to patients' information security
+## Ethical issue in project - 01/08/2019
+Feedback: The project may raise ethical issue as it is related to patients' information security
+
 Time: 01/08/2019
 
 Sourse: Richard
