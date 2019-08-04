@@ -12,6 +12,7 @@ We are going to set up a RESTful web server that can send and receive data to a 
 - Tokens - Multiple connections
 ## Location
 The project development would be taken place both in the office and remotely.
+
 Office address: 1 Moore St, Level 5, Canberra Innovation Network
 ## Tasks
 ### VR App Control - Build server with a front end UI (for doctors)
