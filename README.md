@@ -17,10 +17,32 @@ RecoveryVR is designed to help stroke survivors but our initial market research 
 - Tokens - Multiple connections
 ## Statement of Work
 [Statement of Work](https://github.com/cc33qq/recoveryVR/blob/master/docs/Statement%20of%20work.md)
+
+## Key stakeholders
+### client:
+Christian Doran and RecoveryVR want to get a tablet system that extended their current service content. They want to provide collected data to the doctors to help them design a treatment protocol. 
+### Deverlopers:
+The development team expects to set up a web server with a front-end web UI for doctors and a database of patients. Record each commits to the project.
+### Users:
+- Doctors Users: Release real-time treatment protocols and view the patients’ recovery data.
+- Patients: Receive treatment protocols and send their data back to the doctors.
+
+
+## User Story
+| As A       | I want to     |      So That |
+-------------|---------------|--------------
+|Doctor User|Get access to the system |I can login on the website by using my ID and password.|
+|Doctor User|Arrange exercise for a specific patient|I can control my patient’s device and drag exercises on his/her list.|
+|Doctor User|View my patient’s recovery progress|I can check my patient’s profile and get a graph that display his/her recovery progress.|
+|Patient User |Be treated|I can queue online, and a doctor will control my device. |
+|Patient User |Report my recovery progress|My device sends my data to the doctor automatically. |
+|developer|Upload new file|I can use GitHub and show new change to my teammates|
+|Tutor|See every team member make contributions to the project.|I can check the repository on the GitHub and slack.|
+
 ## Risk Evaluation
 Recovery aims to help patients to recover from complex regional pain. We plan to design VR "games" for patients and build a web server for doctors to monitor how patients recover. During the treatment, it may rise information disclosure issues. Besides our projects may rise risks on our schedule.
 
-Information disclosure issues are the main risks of our project. By using our products, patients' data are collected by VR devices and those data will be transmitted to a web server. Although our team tries to use the safest way to pass information, there is still possible that patients' information is leaked by hack attacks. If patients' data are disclosed, their' privacy is invaded. And the hospital would be involved in the scandal. However, the information exchange is inevitable in this project. The only thing we can do is to build the safest connections between devices and web servers.
+Information disclosure issues are the main risks of our project. By using our products, patients' data are collected by VR devices and those data will be transmitted to a web server. Although our team tries to use the safest way to pass information, there is still possible that patients' information is leaked by hack attacks. If patients' data are disclosed, their' privacy is invaded. And the hospital would be involved in the scandal. However, the information exchange is inevitable in this project. The only thing we can do is to build the safest connection between devices and web servers.
 
 Another risk would be our project timeline. Our project is a startup project and our members have little experience with our jobs. So our team can not give a concrete schedule of the work which means our team can not use the waterfall design method. Instead, our team would use agile development to perform the project. Our clients are actively involved in the project and the project does not have a large workload. Also, our developers are excellent. In this way, our team suits with the agile method. However, the agile method does not have a tight plan and sometimes may not able to finish the project on time. If our project fails to be finished on time, our clients would put off the publish of the product and lose money. Our team members do not demonstrate the competence which is against ACS ethics. Our team is more suitable to use agile way to do the project and we would do our best to conquer the problems of agile method.
 
