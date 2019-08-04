@@ -20,25 +20,24 @@ RecoveryVR is designed to help stroke survivors but our initial market research 
 
 ## Key stakeholders
 ### Client:
-Christian Doran and RecoveryVR want to get a tablet system that extended their current service content. They want to provide collected data to the doctors to help them design a treatment protocol. 
+Christian Doran would like to get a RESTful web server that can send and receive data to a program built in Unity operating on a Oculus Quest VR HMD, and a separate front-end web UI, so that a doctor can use the UI to control the Unity program inside the HMD remotely.
 ### Deverlopers:
-The development team expects to set up a web server with a front-end web UI for doctors and a database of patients. Record each commits to the project.
+The development team expects to produce a product that is accpeted by the clinet, set up a web server with a front-end web UI for doctors and  patients. Using version conrtol tool (Github) to collaborate with my colleagues and record every commits to the project.
 ### Users:
-- Doctors Users: Release real-time treatment protocols and view the patients’ recovery data.
-- Patients: Receive treatment protocols and send their data back to the doctors.
-
+- Doctors: Be able to see the patients’ recovery data so they can adjust trainning plan according to the progress being made.
+- Patients: Safely use the system to gain better recovery from their mobile ability lost, with their informations stored securely.
 
 ## User Story
 | As A       | I want to     |      So That |
 -------------|---------------|--------------
 |Doctor User|Get access to the system |I can login on the website by using my ID and password.|
-|Doctor User|Arrange exercise for a specific patient|I can control my patient’s device and drag exercises on his/her list.|
-|Doctor User|View my patient’s recovery progress|I can check my patient’s profile and get a graph that display his/her recovery progress.|
-|Patient User |Be treated|I can queue online, and a doctor will control my device. |
-|Patient User |Report my recovery progress|My device sends my data to the doctor automatically. |
-|developer|Upload new file|I can use GitHub and show new change to my teammates|
-|Tutor|See every team member make contributions to the project.|I can check the repository on the GitHub and slack.|
+|Doctor User|Arrange exercise for a specific patient|the patient can recovery in my systematic guide.|
+|Doctor User|View my patient’s recovery progress|I can can adjust trainning plan according to the progress being made.|
+|Patient User |Easily play the games in the application|I can gain better recovery from mobile ability lost. |
+|Patient User |Make sure all my personal informations are secured|I am not going to worry about confidential information leaks. |
 
+## Deliverables schedule
+![image](https://github.com/cc33qq/recoveryVR/blob/master/pic/time.png)
 ## Risk Evaluation
 Recovery aims to help patients to recover from complex regional pain. We plan to design VR "games" for patients and build a web server for doctors to monitor how patients recover. During the treatment, it may rise information disclosure issues. Besides our projects may rise risks on our schedule.
 
@@ -49,7 +48,6 @@ Another risk would be our project timeline. Our project is a startup project and
 Our project would face risks in data disclosure and project plan. They will be minimized by the efforts of the whole team.
 ## Constraints
 The information transferred between VR equipment and our server is very critical, we have to make sure the information exchange is secure, safe, and reliable.
-![image](https://github.com/cc33qq/recoveryVR/blob/master/pic/time.png)
 
 ## Other documentations
 [Feedback log](https://github.com/cc33qq/recoveryVR/blob/master/docs/Feedback_log.md)
