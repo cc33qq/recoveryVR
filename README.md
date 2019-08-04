@@ -29,4 +29,5 @@ Our project would face risks in data disclosure and project plan. They will be m
 The information transferred between VR equipment and our server is very critical, we have to make sure the information exchange is secure, safe, and reliable.
 ## Other documentations
 [Feedback log](https://github.com/cc33qq/recoveryVR/blob/master/docs/Feedback_log.md)
+
 [Decision log](https://github.com/cc33qq/recoveryVR/blob/master/docs/Decision_log.md)
