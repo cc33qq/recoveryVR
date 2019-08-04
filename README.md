@@ -16,4 +16,11 @@ RecoveryVR is designed to help stroke survivors but our initial market research 
 - Metrics - Graphical display of recovery
 - Tokens - Multiple connections
 
+## Risk Evaluation
+Recovery aims to help patients to recover from complex regional pain. We plan to design VR "games" for patients and build a web server for doctors to monitor how patients recover. During the treatment, it may rise information disclosure issues. Besides our projects may rise risks on our schedule.
 
+Information disclosure issues are the main risk of our project. By using our products, patients' data are collected by VR devices and those data will be transmitted to a web server. Although our team tries to use the safest way to pass information, there is still possible that patients' information is leaked by hack attacks. If patients' data are disclosed, their' privacy is invaded. And the hospital would be involved in the scandal. However, the information exchange is inevitable in this project. The only thing we can do is to build the safest connection between devices and web servers.
+
+Another risk would be our project timeline. Our project is a startup project and our members have little experience with our jobs. So our team can not give a concrete schedule of the work which means our team can not use the waterfall design method. Instead, our team would use agile development to perform the project. Our clients are actively involved in the project and the project does not have a large workload. Also, our developers are excellent. In this way, our team suits with the agile method. However, the agile method does not have a tight plan and sometimes may not able to finish the project on time. If our project fails to be finished on time, our clients would put off the publish of the product and lose money. Our team members do not demonstrate the competence which is against ACS ethics. Our team is more suitable to use agile way to do the project and we would do our best to conquer the problems of agile method.
+
+Our project would face risks in data disclosure and project plan. They will be minimized by the efforts of the whole team.
