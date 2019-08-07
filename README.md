@@ -8,8 +8,8 @@ RecoveryVR is designed to help stroke survivors but our initial market research 
 - Dian Lu u6493098 - Spoke person, Team manager, backup Implementation
 - Xin Kan u6655676 - Spoke person, Testing, backup Team manager
 - Ilya Sergeev u6050215- Analysis, backup Testing
-- ZhiZhen Huang u6728618 - Implementation backup Analysis
-- Qiao Yu u6706067- TBA
+- ZhiZhen Huang u6728618 - Implementation, backup Analysis
+- Qiao Yu u6706067- Analysis, backup Implementation
 ## Main Tasks
 - VR App Control - Build server with a front end UI
 - Profile Data - Build Database of Users
