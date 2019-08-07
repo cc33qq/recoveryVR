@@ -32,7 +32,7 @@ The development team expects to produce a product that is accpeted by the clinet
 -------------|---------------|--------------
 |Doctor User|Get access to the system |I can login on the website by using my ID and password.|
 |Doctor User|Arrange exercise for a specific patient|I can systematically guide the patien's recovery.|
-|Doctor User|View my patient’s recovery progress|I can can adjust trainning plan according to the progress being made.|
+|Doctor User|View my patient’s recovery progress|I can adjust trainning plan according to the progress being made.|
 |Patient User |Easily play the games in the application|I can gain better recovery from mobile ability lost. |
 |Patient User |Make sure all my personal informations are secured|I am not going to worry about confidential information leaks. |
 
