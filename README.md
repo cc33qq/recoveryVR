@@ -46,6 +46,7 @@ Information disclosure issues are the main risks of our project. By using our pr
 Another risk would be our project timeline. Our project is a startup project and our members have little experience with our jobs. So our team can not give a concrete schedule of the work which means our team can not use the waterfall design method. Instead, our team would use agile development to perform the project. Our clients are actively involved in the project and the project does not have a large workload. Also, our developers are excellent. In this way, our team suits with the agile method. However, the agile method does not have a tight plan and sometimes may not able to finish the project on time. If our project fails to be finished on time, our clients would put off the publish of the product and lose money. Our team members do not demonstrate the competence which is against ACS ethics. Our team is more suitable to use agile way to do the project and we would do our best to conquer the problems of agile method.
 
 Our project would face risks in data disclosure and project plan. They will be minimized by the efforts of the whole team.
+
 ## Constraints
 The information transferred between VR equipment and our server is very critical, we have to make sure the information exchange is secure, safe, and reliable.
 
@@ -55,3 +56,5 @@ The information transferred between VR equipment and our server is very critical
 [Decision log](https://github.com/cc33qq/recoveryVR/blob/master/docs/Decision_log.md)
 
 [ANU Student Project Industry Client Agreement RecoveryVR](https://github.com/cc33qq/recoveryVR/blob/master/docs/ANU_Student_Project_Industry_Client_Agreement_RecoveryVR.docx)
+
+[Ethical statement](https://github.com/cc33qq/recoveryVR/blob/master/docs/Ethical%20Review%20Application.pdf)
