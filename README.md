@@ -58,3 +58,5 @@ The information transferred between VR equipment and our server is very critical
 [ANU Student Project Industry Client Agreement RecoveryVR](https://github.com/cc33qq/recoveryVR/blob/master/docs/ANU_Student_Project_Industry_Client_Agreement_RecoveryVR.docx)
 
 [Ethical statement](https://github.com/cc33qq/recoveryVR/blob/master/docs/Ethical%20Review%20Application.pdf)
+
+[Risk plan](https://github.com/cc33qq/recoveryVR/blob/master/docs/risk%20plan.xlsx)
